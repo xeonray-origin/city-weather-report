@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/city-weather-report/static/js/main.b477244d.chunk.js",
+    "main.js.map": "/city-weather-report/static/js/main.b477244d.chunk.js.map",
+    "runtime-main.js": "/city-weather-report/static/js/runtime-main.1b3da3ad.js",
+    "runtime-main.js.map": "/city-weather-report/static/js/runtime-main.1b3da3ad.js.map",
+    "static/js/2.0f894a0f.chunk.js": "/city-weather-report/static/js/2.0f894a0f.chunk.js",
+    "static/js/2.0f894a0f.chunk.js.map": "/city-weather-report/static/js/2.0f894a0f.chunk.js.map",
+    "index.html": "/city-weather-report/index.html",
+    "static/js/2.0f894a0f.chunk.js.LICENSE.txt": "/city-weather-report/static/js/2.0f894a0f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1b3da3ad.js",
+    "static/js/2.0f894a0f.chunk.js",
+    "static/js/main.b477244d.chunk.js"
+  ]
+}
